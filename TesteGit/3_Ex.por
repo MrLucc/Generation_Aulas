@@ -40,7 +40,7 @@ programa
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
  * @POSICAO-CURSOR = 274; 
- * @PONTOS-DE-PARADA = 16, 33, 18, 34, 19, 22, 23, 13, 15;
+ * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = {vetor, 13, 10, 5}-{x, 13, 23, 1}-{y, 13, 29, 1};
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
  * @FILTRO-ARVORE-TIPOS-DE-SIMBOLO = variavel, vetor, matriz, funcao;
